@@ -189,16 +189,16 @@ function mouseover(d) {
   var testText = "Segment/Total";
 
   //미세먼지 여부
-  if(percentage == 47.440) { testText = "More: 21,22,92 / Less: 42,33"; }
-  if(percentage == 52.560) { testText = "More: 21,22,92 / Less: 42,33"; }
+  if(percentage == 47.440) { testText = "More: 21, 22, 92 / Less: 42, 33"; }
+  if(percentage == 52.560) { testText = "More: 21, 22, 92 / Less: 42, 33"; }
   
   //여자
-  if(percentage == 23.934) { testText = "More: 92,22,34,44 / Less: 42"; }
-  if(percentage == 26.570) { testText = "More: 92,22,34,44 / Less: 42"; }
+  if(percentage == 23.934) { testText = "More: 92, 22, 34, 44 / Less: 42"; }
+  if(percentage == 26.570) { testText = "More: 92, 22, 34, 44 / Less: 42"; }
 
   //남자
-  if(percentage == 23.506) { testText = "More: 21,42,34 / Less: 33,22"; }
-  if(percentage == 25.990) { testText = "More: 21,42,34 / Less: 33,22"; }
+  if(percentage == 23.506) { testText = "More: 21, 42, 34 / Less: 33, 22"; }
+  if(percentage == 25.990) { testText = "More: 21, 42, 34 / Less: 33, 22"; }
  
   //여자 20
   if(percentage == 2.3994) { testText = "Less: 71, 52, 81, 33, 42"; }
