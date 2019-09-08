@@ -90,7 +90,7 @@ var arc = d3.svg.arc()
 
 // row, and can receive the csv as an array of arrays.
 
-d3.text("demo3.csv", function(text) {
+d3.text("data.csv", function(text) {
 
   var csv = d3.csv.parseRows(text);
 
