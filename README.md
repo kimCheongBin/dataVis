@@ -4,6 +4,6 @@ d3.js기반으로 만든 프로젝트 입니다.
 
 실행을 위해서는 로컬에 서버를 만들어서 실행하셔야 합니다.
 파이썬이 있다면 아래에 터미널 명령어를 실행합니다.
-<pre><code>python -m http.server 8888 &</code></pre>
+<pre><code>>> python -m http.server 8888 &</code></pre>
 
 웹 브라우저를 이용하여 localhost8888 주소를 방문하여 확인할 수 있습니다.
