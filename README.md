@@ -8,7 +8,7 @@
 
 파이썬이 있다면 아래의 명령어를 실행합니다.
 
-<pre><code>>>python -m SimpleHTTPServer 8888 &</code></pre>
+<pre><code>>> python -m SimpleHTTPServer 8888 &</code></pre>
 
 파이썬 3은 아래의 명령어를 실행합니다.
 
